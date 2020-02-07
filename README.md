@@ -1,2 +1,2 @@
 # huntweb
-Projeto feito em React
+Projeto da Rocketseat feito em React
